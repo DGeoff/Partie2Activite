@@ -1,0 +1,1 @@
+Le projet consiste à créer un jeu de données puis de modéliser le prix d'une Peugeot 307 de 2010
